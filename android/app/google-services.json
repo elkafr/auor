@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40720812994",
+    "project_id": "auor-8fa8c",
+    "storage_bucket": "auor-8fa8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40720812994:android:5224e7901a1a8b12d0e45b",
+        "android_client_info": {
+          "package_name": "com.art4muslim.auor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40720812994-ij2vh9cmd3h4fg7p3fhmdckslsk01997.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23nv25zqzjg5es_G7wUjOfqpQcyKiECY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40720812994-ij2vh9cmd3h4fg7p3fhmdckslsk01997.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40720812994-ktciu0ldaoa2oekh8eti977is7vc267u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.art4muslim.auor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
