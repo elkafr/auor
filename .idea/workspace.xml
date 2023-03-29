@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e8f11c-f1ac-4efc-ab20-56ce464a14e6" name="Changes" comment="edits">
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/._auth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/._code_activation_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/._login_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/._new_password_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/._phone_password_recovery_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/._register_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/._widgets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/__MACOSX/auth/widgets/._select_country_bottom_sheet.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth/code_activation_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth/login_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth/new_password_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth/phone_password_recovery_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth/register_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/auth/widgets/select_country_bottom_sheet.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/auor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/auor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/my_ads/widgets/my_ad_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/my_ads/widgets/my_ad_item.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677614145619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edits">
+      <created>1680078675453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680078675453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
