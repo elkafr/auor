@@ -252,7 +252,7 @@ class _MyAdItemState extends State<MyAdItem> {
                                                   defaultMargin: false,
                                                   btnColor: orangeColor,
                                                   btnStyle: TextStyle(
-                                                      color: Colors.white,
+                                                      color: Colors.red,
                                                       fontSize: 14,
                                                       fontWeight:
                                                           FontWeight.w700),
